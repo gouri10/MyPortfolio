@@ -793,7 +793,7 @@ img.grayscale:hover {
 	display:block;
 	margin:0;
 	padding:0;
-	height:auto;
+	height:250px;
 }
 .overlay {
 	display:block;
